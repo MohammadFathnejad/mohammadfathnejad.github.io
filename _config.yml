@@ -1,10 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "images/me.jpg" # your photo (or logo) here
+title: Mohammad Reza Fathnejad # your name
+logo: "images/me.jpg" # photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Hi There!<br>
   Second description 
-  <br><br>
+  <br>Welcome to my Portfolio.<br>
   <a href="https://www.linkedin.com/in/mohammad-fathnejad/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
