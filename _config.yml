@@ -8,14 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/mohammad-fathnejad/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152683784-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-152683784-1');
-</script>
-
 google_analytics: UA-152683784-1 # your Google Analytics tracking ID here
