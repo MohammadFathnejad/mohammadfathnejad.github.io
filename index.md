@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### About. 
 
-[A Little About Me...](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[A Little About Me...]
+
 
 ---
-[My Hobbies...](/pdf/sample_presentation.pdf)
+[My Hobbies...]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,16 +17,15 @@
 
 ---
 
-### Category Name 2
+### Education and Employment.
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
-
+## CV
+[Click Here To View or Download My CV Via PDF.](/pdf/Mohammad_Fathnejad_CV.pdf)
 
 
 
