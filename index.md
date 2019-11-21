@@ -4,8 +4,6 @@
 
 ## About. 
 
-
-
 <p> Hi there! I am a Computer Science Student at Goldsmiths University of london, computer enthusiast and a normal everyday friend with a passion to teach and facilitate learning for others. 
 Born in Iran and raised in different locations around the world with non-identical cultures, I have some gained some understanding towards people in general. Compared to other places, I mostly lived in London, as it is also where I am studying for a bachelor’s degree in Computer Science.
 Though I was born in iran and Studied in Persian, I was always more pro-efficient in the English language as I am also half American and was always more comfortable speaking English rather than Farsi. However, because of the Persian Education method I am confident in Mathematics which boosted my apprehension in the C.S degree.
@@ -13,7 +11,7 @@ My passion for Teaching started when my university gave me an opportunity to fac
 <!p>
 
 ---
-[My Hobbies...]
+## My Hobbies
 1. Indoor Rock Climbing (AKA: Wall Climbing) 
 Even though I am not that great at it but its a skill that I always wanted to acheive.
 2. Table Tinnis (AKA: Ping Pong)
