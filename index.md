@@ -15,18 +15,18 @@ My passion for Teaching started when my university gave me an opportunity to fac
 
 ---
 ## My Hobbies
-**1.** Indoor Rock Climbing (AKA: Wall Climbing) <br>
-Even though I am not that great at it but its a skill that I always wanted to acheive.<br>
-**2.** Table Tinnis (AKA: Ping Pong)<br>
-I have my own holding technique which I like to call the Devils Face. <br>
-**3.** Vollyball <br>
-**4.** Video Games <br>
-They Say Old Habbits Never Die. <br>
-**5.** Music Development (Using FruityLoops) <br>
-A Recently stated hobbie still in development as I am still a rookie at it. Hoping to get better at it.<br>
-**6.** PC Exploring ( Hardware and Software)<br>
-I like taking them apart and exploring the components and the built. As for Software, I like finding new things to download and comparing its usability.<br>
 
+**1.** <p> Indoor Rock Climbing (AKA: Wall Climbing) </p><br>
+Even though I am not that great at it but its a skill that I always wanted to acheive.<br>
+**2.**<p> Table Tinnis (AKA: Ping Pong)</p><br>
+<p>I have my own holding technique which I like to call the Devils Face. </p><br>
+**3.**<p> Vollyball </p><br>
+**4.**<p> Video Games </p><br>
+<p>They Say Old Habbits Never Die. </p><br>
+**5.**<p> Music Development (Using FruityLoops) </p><br>
+<p>A Recently started hobbie, still in development as I am still a rookie at it. Hoping to get better at it. </p><br>
+**6.**<p> PC Exploring ( Hardware and Software) </p><br>
+<p> I like taking them apart and exploring the components and the built. As for Software, I like finding new things to download and comparing its usability. </p><br>
 
 
 
