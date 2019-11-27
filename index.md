@@ -15,18 +15,17 @@ My passion for Teaching started when my university gave me an opportunity to fac
 
 ---
 ## My Hobbies
-**1.** Indoor Rock Climbing (AKA: Wall Climbing) 
-Even though I am not that great at it but its a skill that I always wanted to acheive.
-**2.** Table Tinnis (AKA: Ping Pong)
-I have my own holding technique which I like to call the Devils Face. 
-**3.** Vollyball
-**4.** Video Games
-They Say Old Habbits Never Die.
-**5.** Music Development (Using FruityLoops)
-A Recently stated hobbie still in development as I am still a rookie at it. Hoping to get better at it.
-
-**6.** PC Exploring ( Hardware and Software)
-I like taking them apart and exploring the components and the built. As for Software, I like finding new things to download and comparing its usability.
+**1.** Indoor Rock Climbing (AKA: Wall Climbing) <br>
+Even though I am not that great at it but its a skill that I always wanted to acheive.<br>
+**2.** Table Tinnis (AKA: Ping Pong)<br>
+I have my own holding technique which I like to call the Devils Face. <br>
+**3.** Vollyball <br>
+**4.** Video Games <br>
+They Say Old Habbits Never Die. <br>
+**5.** Music Development (Using FruityLoops) <br>
+A Recently stated hobbie still in development as I am still a rookie at it. Hoping to get better at it.<br>
+**6.** PC Exploring ( Hardware and Software)<br>
+I like taking them apart and exploring the components and the built. As for Software, I like finding new things to download and comparing its usability.<br>
 
 
 
