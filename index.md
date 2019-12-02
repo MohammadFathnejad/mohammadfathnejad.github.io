@@ -31,10 +31,12 @@ A Recently started hobbie, still in development as I am still a rookie at it. Ho
 
 
 ---
-[My First Program...](http://example.com/)
+##[My First Program...](http://example.com/)
 
 **_Transportation problem, using northwest method, shadow cost and improvment indices._**
-```pythonimport csv
+
+```
+pythonimport csv
 #first we import the csv module so we could get access to our file.
 #next we create all the necessary variables such as the empty lists for us to use later on.
 ShadowListA= [-1, -1, -1]
@@ -402,7 +404,7 @@ Exiting = input("")
 
 
 ```
-<img src=""/>
+
 
 ---
 
