@@ -404,6 +404,64 @@ Exiting = input("")
 
 
 ```
+### The output of the program will look something like this...
+```
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\shado\OneDrive\foundation year\Problem solving assingment-2._take-39.py 
+please write the name of the file(Without File Type): inputting
+please write the File Type(E.g: csv):  csv
+[['3', '5', '4', '60'], ['6', '2', '5', '90'], ['4', '7', '3', '70'], ['80', '70', '70', '']]
+[3, 5, 4, 60]
+[6, 2, 5, 90]
+[4, 7, 3, 70]
+[80, 70, 70]
+[60, 90, 70]
+Total Demand:  220
+Total Supply:  220
+.Table Is Valid.
+The Full Table is: 
+Row A is:  [3, 5, 4, 60]
+Row B is:  [6, 2, 5, 90]
+Row C is:  [4, 7, 3, 70]
+Demands :  [80, 70, 70]
+supply:  [60, 90, 70]
+60
+90
+70
+intial table
+[-1, -1, -1, 60]
+[-1, -1, -1, 90]
+[-1, -1, -1, 70]
+[80, 70, 70]
+Now to Solve The Problem Using the North-West method: 
+[60, -1, -1, 60]
+[20, 70, 0, 90]
+[-1, -1, 70, 70]
+[80, 70, 70]
+Now for Shadow Cost!!!
+[3, -1, -1]
+[6, 2, 5]
+[-1, -1, 3]
+Shadow Cost For Supply:  [0, 3, 1]
+Shadow Cost For Demand:  [3, -1, 2]
+~~Total Prise is:  650
+
+improvent indices in Row 1 [-1, 5, 4] [5, 4]
+improvent indices in Row 2 [-1, -1, -1] []
+improvent indices in Row 3 [4, 7, -1] [4, 7]
+the improved are: 
+[6, 2]
+[]
+[0, 7]
+
+This table is optimal.
+~~~Stepping stone is Not needed.
+The Minimum number is in Line C and is:  0
+Thank you for using this Program. Press Enter key to End.
+
+```
 
 
 ---
